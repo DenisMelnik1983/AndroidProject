@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Курс валют ПриватБанк </string>
     <string name="last_update">курс на</string>
+    <string name="error_update">НЕ УДАЛОСЬ ПОЛУЧИТЬ ОБНОВЛЕНИЯ, ПРОВЕРЬТЕ ПОДКЛЮЧЕНИЕ К ИНТЕРНЕТУ</string>
+    <string name="updated">ОБНОВЛЕНИЕ КУРСА</string>
 </resources>

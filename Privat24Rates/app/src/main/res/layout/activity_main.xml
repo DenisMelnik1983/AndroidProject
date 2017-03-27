@@ -6,7 +6,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="denis.com.ua.privat24rates.layouts.MainActivity">
+    tools:context="denis.com.ua.privat24rates.layouts.MainActivity"
+    android:id="@+id/llMain">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recycleView"
